@@ -18,3 +18,5 @@ A personal collection of learning resources
 
 - [djangogirls](https://djangogirls.org/en/) - tutorial
 - [mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - tutorial
+- [obeythetestinggoat](https://www.obeythetestinggoat.com/) - free ebook on django Test Driven Development
+- 
