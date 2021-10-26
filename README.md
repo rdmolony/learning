@@ -11,7 +11,7 @@ A personal collection of learning resources
 
 ## renewable energy software
 
-- [RES Software Blog](https://medium.com/res-software-team) - learings on RE software development by RES (Renewable Energy Systems Ltd)
+- RES Software [Blog](https://medium.com/res-software-team) & [Intro](https://medium.com/res-software-team/welcome-to-the-res-software-blog-5e856c1bb8b4) - learnings on RE software development by RES (Renewable Energy Systems Ltd)
 - [GreenByte](https://www.greenbyte.com/) - software platform for wind & solar farm owners
 
 
