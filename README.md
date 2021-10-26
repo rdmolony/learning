@@ -12,6 +12,7 @@ A personal collection of learning resources
 ## renewable energy software
 
 - [RES Software Blog](https://medium.com/res-software-team) - learings on RE software development by RES (Renewable Energy Systems Ltd)
+- [GreenByte](https://www.greenbyte.com/) - software platform for wind & solar farm owners
 
 
 ## django
@@ -19,4 +20,4 @@ A personal collection of learning resources
 - [djangogirls](https://djangogirls.org/en/) - tutorial
 - [mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - tutorial
 - [obeythetestinggoat](https://www.obeythetestinggoat.com/) - free ebook on django Test Driven Development
-- 
+
