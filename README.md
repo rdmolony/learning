@@ -13,9 +13,10 @@ A personal collection of learning resources
 
 - RES Software [Blog](https://medium.com/res-software-team) & [Intro](https://medium.com/res-software-team/welcome-to-the-res-software-blog-5e856c1bb8b4) - learnings on RE software development by RES (Renewable Energy Systems Ltd)
 - [GreenByte](https://www.greenbyte.com/) - software platform for wind & solar farm owners
-- [IEA-Task-43](https://github.com/IEA-Task-43/digital_wra_data_standard) - standard data model and associated tools intended as universal building blocks for Wind Energy Resource Assessment applications
+- [IEA-Task-43/digital_wra_data_standard](https://github.com/IEA-Task-43/digital_wra_data_standard) - standard data model and associated tools intended as universal building blocks for Wind Energy Resource Assessment applications
 - [brightwind-dev/brightwind](https://github.com/brightwind-dev/brightwind) - python library to empower wind resource analysts and establish a common industry standard toolset
 - [BrightWind blog](https://brightwindanalysis.medium.com/)
+- [IEA Wind Task 43](https://www.ieawindtask43.org/)
 
 ## django
 
