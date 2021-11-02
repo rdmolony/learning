@@ -26,9 +26,15 @@ A personal collection of learning resources
 - [obeythetestinggoat](https://www.obeythetestinggoat.com/) - free ebook on django Test Driven Development
 
 
+## JS testing 
+
+- [playright](https://github.com/microsoft/playwright) - web app end-to-end nodejs testing framework
+
+
 ## python packaging
 
 - [simonw/python-lib-template-repository](https://github.com/simonw/python-lib-template-repository) - GitHub template repository for creating new Python libarries, using the simonw/python-lib cookiecutter template
+- [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - project template generator
 
 
 ## renewable energy theory
@@ -47,7 +53,3 @@ A personal collection of learning resources
 - [BrightWind blog](https://brightwindanalysis.medium.com/)
 - [IEA Wind Task 43](https://www.ieawindtask43.org/)
 
-
-## testing JS
-
-- [playright](https://github.com/microsoft/playwright) - web app end-to-end nodejs testing framework
