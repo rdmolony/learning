@@ -47,3 +47,7 @@ A personal collection of learning resources
 - [BrightWind blog](https://brightwindanalysis.medium.com/)
 - [IEA Wind Task 43](https://www.ieawindtask43.org/)
 
+
+## testing JS
+
+- [playright](https://github.com/microsoft/playwright) - web app end-to-end nodejs testing framework
