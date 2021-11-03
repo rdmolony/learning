@@ -35,6 +35,8 @@ A personal collection of learning resources
 
 - [simonw/python-lib-template-repository](https://github.com/simonw/python-lib-template-repository) - GitHub template repository for creating new Python libarries, using the simonw/python-lib cookiecutter template
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - project template generator
+- [Madoshakalaka/pipenv-setup](https://github.com/Madoshakalaka/pipenv-setup) - sync pipfile/lockfile to setup.py or check dependency and versioning conflicts
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - project template generator, packaging & dependency manager.
 
 
 ## renewable energy theory
