@@ -26,6 +26,10 @@ A personal collection of learning resources
 - [obeythetestinggoat](https://www.obeythetestinggoat.com/) - free ebook on django Test Driven Development
 
 
+## environment setup
+
+- [data science environment setup](https://whiteboxml.com/blog/the-definitive-data-scientist-environment-setup) - OS + Terminal + VM + conda + IDE + DB
+
 ## JS testing 
 
 - [playright](https://github.com/microsoft/playwright) - web app end-to-end nodejs testing framework
@@ -39,7 +43,7 @@ A personal collection of learning resources
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - project template generator, packaging & dependency manager.
 - [PyScaffold for Data Science](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
 - [conda guide](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
-- [data science environment setup](https://whiteboxml.com/blog/the-definitive-data-scientist-environment-setup)
+
 
 ## renewable energy theory
 
