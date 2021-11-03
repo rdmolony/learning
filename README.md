@@ -37,7 +37,9 @@ A personal collection of learning resources
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - project template generator
 - [Madoshakalaka/pipenv-setup](https://github.com/Madoshakalaka/pipenv-setup) - sync pipfile/lockfile to setup.py or check dependency and versioning conflicts
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - project template generator, packaging & dependency manager.
-
+- [PyScaffold for Data Science](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
+- [conda guide](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
+- [data science environment setup](https://whiteboxml.com/blog/the-definitive-data-scientist-environment-setup)
 
 ## renewable energy theory
 
