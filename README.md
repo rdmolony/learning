@@ -29,6 +29,8 @@ A personal collection of learning resources
 ## docker
 
 - [Production-ready Docker packaging for Python developers](https://pythonspeed.com/docker)
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - example Django app that's using Docker and Docker Compose
 
 
 ## environment setup
