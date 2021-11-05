@@ -30,6 +30,7 @@ A personal collection of learning resources
 
 - [data science environment setup](https://whiteboxml.com/blog/the-definitive-data-scientist-environment-setup) - OS + Terminal + VM + conda + IDE + DB
 
+
 ## JS testing 
 
 - [playright](https://github.com/microsoft/playwright) - web app end-to-end nodejs testing framework
@@ -43,7 +44,13 @@ A personal collection of learning resources
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - project template generator, packaging & dependency manager.
 - [PyScaffold for Data Science](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
 - [conda guide](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
+- [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - cookiecutter based on [HypyerModern Python Blog Series](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769)
 
+
+## python testing
+
+- [Cosmic Python](https://www.cosmicpython.com/book/preface.html) (eBook) - simple patterns for building complex applications
+ 
 
 ## renewable energy theory
 
