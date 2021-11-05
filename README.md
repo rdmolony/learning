@@ -26,6 +26,11 @@ A personal collection of learning resources
 - [obeythetestinggoat](https://www.obeythetestinggoat.com/) - free ebook on django Test Driven Development
 
 
+## docker
+
+- [Production-ready Docker packaging for Python developers](https://pythonspeed.com/docker)
+
+
 ## environment setup
 
 - [data science environment setup](https://whiteboxml.com/blog/the-definitive-data-scientist-environment-setup) - OS + Terminal + VM + conda + IDE + DB
