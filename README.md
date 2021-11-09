@@ -52,7 +52,9 @@ A personal collection of learning resources
 - [PyScaffold for Data Science](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
 - [conda guide](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - cookiecutter based on [HypyerModern Python Blog Series](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769)
-
+- [michaeloliverx/python-poetry-docker-example](https://github.com/michaeloliverx/python-poetry-docker-example) 
+- [integrating-python-poetry-with-docker](https://stackoverflow.com/questions/53835198/integrating-python-poetry-with-docker/54763270#54763270)
+- [Document docker poetry best practices](https://github.com/python-poetry/poetry/discussions/1879#discussioncomment-216865)
 
 ## python testing
 
