@@ -55,6 +55,8 @@ A personal collection of learning resources
 - [michaeloliverx/python-poetry-docker-example](https://github.com/michaeloliverx/python-poetry-docker-example) 
 - [integrating-python-poetry-with-docker](https://stackoverflow.com/questions/53835198/integrating-python-poetry-with-docker/54763270#54763270)
 - [Document docker poetry best practices](https://github.com/python-poetry/poetry/discussions/1879#discussioncomment-216865)
+- [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
+
 
 ## python testing
 
