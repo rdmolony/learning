@@ -48,7 +48,7 @@ A personal collection of learning resources
 - [simonw/python-lib-template-repository](https://github.com/simonw/python-lib-template-repository) - GitHub template repository for creating new Python libarries, using the simonw/python-lib cookiecutter template
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - project template generator
 - [Madoshakalaka/pipenv-setup](https://github.com/Madoshakalaka/pipenv-setup) - sync pipfile/lockfile to setup.py or check dependency and versioning conflicts
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - project template generator, packaging & dependency manager.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - project template generator, packaging & dependency manager
 - [PyScaffold for Data Science](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
 - [conda guide](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - cookiecutter based on [HypyerModern Python Blog Series](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769)
@@ -56,6 +56,7 @@ A personal collection of learning resources
 - [integrating-python-poetry-with-docker](https://stackoverflow.com/questions/53835198/integrating-python-poetry-with-docker/54763270#54763270)
 - [Document docker poetry best practices](https://github.com/python-poetry/poetry/discussions/1879#discussioncomment-216865)
 - [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
+- [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - rust-based `Python`  packaging & dependency manager
 
 
 ## python testing
