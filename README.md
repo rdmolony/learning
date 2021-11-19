@@ -31,6 +31,8 @@ A personal collection of learning resources
 - [Production-ready Docker packaging for Python developers](https://pythonspeed.com/docker)
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - example Django app that's using Docker and Docker Compose
+- [Django REST with React](https://www.valentinog.com/blog/drf/)
+- [justdjango/teach-me-django](https://github.com/justdjango/teach-me-django) - A tutorial on building school system with online assignments with React and Django
 
 
 ## environment setup
