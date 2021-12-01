@@ -66,6 +66,7 @@ A personal collection of learning resources
 ## python testing
 
 - [Cosmic Python](https://www.cosmicpython.com/book/preface.html) (eBook) - simple patterns for building complex applications
+- [Mocking vs Monkeypatching](https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python)
  
 
 ## renewable energy theory
