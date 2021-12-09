@@ -34,7 +34,6 @@ A personal collection of learning resources
 - [Django REST with React](https://www.valentinog.com/blog/drf/)
 - [justdjango/teach-me-django](https://github.com/justdjango/teach-me-django) - A tutorial on building school system with online assignments with React and Django
 - [marcgibbons/django-selenium-docker](https://github.com/marcgibbons/django-selenium-docker) - Example of Django Selenium testing with Docker Compose
-- 
 
 
 ## environment setup
@@ -67,6 +66,7 @@ A personal collection of learning resources
 
 - [Cosmic Python](https://www.cosmicpython.com/book/preface.html) (eBook) - simple patterns for building complex applications
 - [Mocking vs Monkeypatching](https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python)
+- [A few of my favorite pytest](https://www.angelaambroz.com/blog/posts/2018/Jan/24/a_few_of_my_favorite_pytest_things/)
  
 
 ## renewable energy theory
